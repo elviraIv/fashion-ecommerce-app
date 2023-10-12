@@ -6,8 +6,7 @@ import {
   YoutubeOutlined,
   DownSquareOutlined,
   MailOutlined,
-  PhoneOutlined
-
+  PhoneOutlined,
 } from "@ant-design/icons";
 
 const Container = styled.div`
@@ -62,15 +61,14 @@ const Right = styled.div`
 `;
 
 const ContactItem = styled.div`
-margin-bottom: 20px;
-display: flex;
-align-items: center;
-`
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+`;
 
 const Payment = styled.img`
-width: 50%;
-`
-
+  width: 50%;
+`;
 
 const Footer = () => {
   return (
@@ -85,7 +83,7 @@ const Footer = () => {
         </Desc>
         <SocialContainer>
           <SocialIcon>
-            <FacebookOutlined style={{ fontSize: "150%"}} />
+            <FacebookOutlined style={{ fontSize: "150%" }} />
           </SocialIcon>
           <SocialIcon>
             <InstagramOutlined style={{ fontSize: "150%" }} />
@@ -115,18 +113,18 @@ const Footer = () => {
       <Right>
         <Title>Contacts</Title>
         <ContactItem>
-          <DownSquareOutlined style={{marginRight:'10px'}}/>
+          <DownSquareOutlined style={{ marginRight: "10px" }} />
           3236 Bryan Avenue, Eagan 55121
         </ContactItem>
         <ContactItem>
-          <PhoneOutlined style={{marginRight:'10px'}} />
+          <PhoneOutlined style={{ marginRight: "10px" }} />
           612-388-3980
         </ContactItem>
         <ContactItem>
-         <MailOutlined style={{marginRight:'10px'}} />
-            contact@lvra.dev
+          <MailOutlined style={{ marginRight: "10px" }} />
+          contact@lvra.dev
         </ContactItem>
-       <Payment src = 'https://user-images.githubusercontent.com/52581/44384465-5e312780-a570-11e8-9336-7b54978a9e64.png'/>
+        <Payment src="https://user-images.githubusercontent.com/52581/44384465-5e312780-a570-11e8-9336-7b54978a9e64.png" />
       </Right>
     </Container>
   );

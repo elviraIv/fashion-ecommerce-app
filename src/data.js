@@ -49,11 +49,11 @@ export const popularProducts = [
   },
   {
     id:2,
-    img:"https://cdn.shopify.com/s/files/1/0081/1260/3217/products/2176020-Natural1637978660.png?v=1639019567",
+    img:"https://www.transparentpng.com/thumb/clothes/flYuLs-dress-clothes-clipart-photo.png",
   },
   {
     id:3,
-    img:"https://www.burdastyle.uk/media/catalog/product/cache/5dce411aab5e9e93103a1808ddd11c54/113/BUS-PAT-BURTE-1170419/1170x1470_BS_2019_04_117_front_1551285661546.jpg",
+    img:"https://cdn.pnghd.pics/data/129/dress-transparent-background-7.png",
   },
   {
     id:4,
@@ -65,11 +65,11 @@ export const popularProducts = [
   },
   {
     id:6,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img:"https://www.transparentpng.com/thumb/polo-shirt/MqaGIu-polo-shirt-clipart-photo.png",
   },
   {
     id:7,
-    img:"https://amerikaantje.be/wp-content/uploads/2021/06/2217-arrow-jacket-forest.jpg",
+    img:"https://www.pngplay.com/wp-content/uploads/6/Female-Clothes-Transparent-File.png",
   },
   {
     id:8,
