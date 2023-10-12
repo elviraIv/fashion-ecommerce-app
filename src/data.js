@@ -41,3 +41,38 @@ export const categories = [
     title: "LIGHT JACKETS",
   },
 ];
+
+export const popularProducts = [
+  {
+    id:1,
+    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+  },
+  {
+    id:2,
+    img:"https://cdn.shopify.com/s/files/1/0081/1260/3217/products/2176020-Natural1637978660.png?v=1639019567",
+  },
+  {
+    id:3,
+    img:"https://www.burdastyle.uk/media/catalog/product/cache/5dce411aab5e9e93103a1808ddd11c54/113/BUS-PAT-BURTE-1170419/1170x1470_BS_2019_04_117_front_1551285661546.jpg",
+  },
+  {
+    id:4,
+    img:"https://www.burdastyle.com/media/catalog/product/cache/5dce411aab5e9e93103a1808ddd11c54/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+  },
+  {
+    id:5,
+    img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+  },
+  {
+    id:6,
+    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+  },
+  {
+    id:7,
+    img:"https://amerikaantje.be/wp-content/uploads/2021/06/2217-arrow-jacket-forest.jpg",
+  },
+  {
+    id:8,
+    img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+  },
+]
